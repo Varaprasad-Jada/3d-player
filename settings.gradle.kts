@@ -1,0 +1,8 @@
+include(":app")
+include(":core:player")
+include(":core:common")
+include(":core:database")
+include(":ui:mobile")
+include(":ui:tv")
+include(":ui:common")
+include(":features:3d-rendering")
